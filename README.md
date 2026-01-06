@@ -1,6 +1,6 @@
 # Automated Weather-Based Daily Planner
 
-![Project Banner](./) <!-- Replace with the actual image filename if it's different -->
+![Project Banner](./Ai-powered-weather-daily-planner.jpeg) <!-- Replace with the actual image filename if it's different -->
 
 ---
 
